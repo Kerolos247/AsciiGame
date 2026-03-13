@@ -90,10 +90,3 @@ asciigame.exe
  -Enemy attack sounds
 
  -Animated ASCII graphics for characters and gameplay
-
-👨‍💻 Author
-
-Kerolos Adel
-
-GitHub:
-https://github.com/Kerolos247/AsciiGame
