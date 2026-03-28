@@ -1,92 +1,74 @@
-🎮 Shadow Ascend C++
+#### 🎮 Shadow Ascend (C++)
 
-📝 Overview
- -Shadow Ascend is an action-packed 2D ASCII adventure game full of challenges, enemies, and dynamic movement. The player explores different platforms using ladders and elevators while fighting enemies and avoiding dangerous bats.
+#### 📝 Overview
+**Shadow Ascend** is an action-packed 2D ASCII adventure game. Explore challenging platforms, fight enemies, and avoid dangerous bats while navigating ladders and elevators. Your ultimate goal: survive the level and defeat the powerful **Big Boss**.
 
- -The main goal is to survive the level, defeat enemies using your gun, and finally confront the powerful Big Boss.
+**Key Gameplay Style:**  
+- Retro ASCII graphics for a nostalgic console experience.  
+- Fast-paced movement and combat.  
+- Story-driven objectives that guide your progression.  
 
- -ASCII-style games use characters as graphics to create retro-style gameplay inside the console environment.
+---
 
-✨ Features
+#### ✨ Features
+- 🕹 **Jumping & Movement:** Dynamic system for multiple jump directions.  
+- 🎨 **ASCII Animations:** Characters and actions are animated entirely with ASCII art.  
+- 🤖 **Enemy AI:** Enemies detect and attack the player intelligently.  
+- 🔫 **Weapon System:** Shoot bullets at enemies with an animated shooting mechanic.  
+- 🪜 **Platforms, Ladders & Elevators:** Navigate levels using elevators and platforms.  
+- 🦇 **Bats & Hazards:** Dangerous bats attack during gameplay.  
+- 👹 **Big Boss Battle:** Final boss with animations and a strategic fight.  
+- 📖 **Story-Driven Gameplay:** Complete objectives to progress through the game.  
 
- -🕹 Jumping & Movement – Dynamic jump system in multiple directions.
+---
 
- -🎨 ASCII Animations – Characters and actions are animated using ASCII graphics.
- 
- -🤖 Enemy AI – Enemies can detect and attack the player.
+#### 🎮 Controls
 
- -🔫 Weapon System – Use a gun to shoot bullets at enemies.
+| Action            | Key |
+|------------------|-----|
+| Move Right        | D   |
+| Move Left         | A   |
+| Elevator Up       | W   |
+| Elevator Down     | S   |
+| Jump Right        | K   |
+| Jump Left         | H   |
+| Jump Center       | J   |
+| Multiple Jump     | W   |
+| Shoot             | F   |
 
- -💥 Bullet Mechanics – Shooting system with animated bullets.
+---
 
- -🪜 Platforms, Ladders & Elevators – Navigate the level using elevators and platforms.
+#### 🏃 How to Play
+- Move through platforms and elevators to explore the level.  
+- Avoid bats and enemy attacks.  
+- Jump on “?” marks to collect keys, which help you progress.  
+- Defeat enemies using your gun to reach the final boss.  
 
- -🦇 Bats & Hazards – Dangerous bats attack the player during gameplay.
+---
 
- -👹 Big Boss Battle – Final fight against a powerful boss with animations.
+#### ⚔️ How to Defeat the Big Boss
+- The **Big Boss** has a powerful front shield.  
+- **Strategy:**  
+  1. Wait until the boss turns his back.  
+  2. Shoot repeatedly while his back is exposed.  
+  3. Avoid bats that accompany the boss.  
+  4. Repeat until the boss is defeated.  
 
- -📖 Story-Driven Gameplay – The player must complete objectives to progress.
+---
 
-🎮 Controls
-Action	     Key
-Move Right	  D
-Move Left	    A
-Elevator Up	  W
-Elevator Down	S
-Jump Right	  K
-Jump Left	    H
-Jump Center	  J
-Multiple Jump	W
-Shoot	        F
-
-🏃 How to Play
-
- -Move through platforms and elevators to explore the level.
-
-- Avoid bats and enemy attacks while navigating the environment.
-
- -Jump on the “?” mark in the game to obtain the key.
-
- -The key helps you progress and avoid bat attacks.
-
- -Defeat enemies using your gun to reach the final boss.
-
-⚔️ How to Defeat the Big Boss
-
- -The Big Boss is protected by a powerful shield:
-
-Important strategy:
-
- -The Big Boss cannot be defeated from the front.
-
- -Wait until the Big Boss turns his back.
-
- -When his back is exposed, shoot repeatedly.
-
- -Repeat this strategy until the boss is defeated.
-
- -Avoid the bats that fight alongside the Big Boss, as they can damage the player.
-
-💻 How to Run the Game
-
-1️⃣ Clone the repository
-
+#### 💻 How to Run the Game
+1. Clone the repository:  
+```bash
 git clone https://github.com/Kerolos247/AsciiGame
 
-2️⃣ Open the project folder.
 
-3️⃣ Run the game executable
-
+Open the project folder
+Run the game executable:
 asciigame.exe
 
-4️⃣ Enjoy playing Shadow Ascend.
-
+Enjoy playing Shadow Ascend!
 🎧 Audio & Visuals
-
- -Shooting sound effects
-
- -Jump sound effects
-
- -Enemy attack sounds
-
- -Animated ASCII graphics for characters and gameplay
+Shooting sound effects
+Jump sound effects
+Enemy attack sounds
+Animated ASCII characters and gameplay
