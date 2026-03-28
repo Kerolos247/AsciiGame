@@ -53,10 +53,14 @@
   4. Repeat until the boss is defeated.  
 
 ---
-### Game Screenshots 
+### Game Screenshots
 
-https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120318.png https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120408.png https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120430.png https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120611.png https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120636.png https://github.com/Kerolos247/AsciiGame/blob/main/Screenshot%202026-03-28%20120646.png  #### 🎮 Shadow Ascend (C++)
----
+![Screenshot 1](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120318.png)  
+![Screenshot 2](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120408.png)  
+![Screenshot 3](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120430.png)  
+![Screenshot 4](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120611.png)  
+![Screenshot 5](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120636.png)  
+![Screenshot 6](https://github.com/Kerolos247/AsciiGame/raw/main/Screenshot%202026-03-28%20120646.png)
 
 #### 💻 How to Run the Game
 1. Clone the repository:  
