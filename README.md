@@ -64,7 +64,7 @@ git clone https://github.com/Kerolos247/AsciiGame
 
 Open the project folder
 Run the game executable:
-asciigame.exe
+AsciiGame.exe
 
 Enjoy playing Shadow Ascend!
 🎧 Audio & Visuals
